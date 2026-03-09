@@ -57,7 +57,7 @@ HR management platform designed to help companies manage employees, attendance, 
 ---
 
 ### 🏢 Qarat ERP
-A comprehensive ERP system designed for businesses to manage operations such as accounting, sales, inventory, and administrative processes in one integrated platform.
+Is a cloud-based Enterprise Resource Planning (ERP) system designed to help businesses manage their daily operations in one integrated platform. It is particularly tailored for gold and jewelry businesses, providing specialized tools for handling inventory, sales, accounting, and financial management.
 
 🔗 https://qaraterp.com/
 
